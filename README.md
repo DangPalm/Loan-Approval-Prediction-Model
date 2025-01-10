@@ -63,15 +63,15 @@ Size: 10,000 rows and 15 features for training; 39,098 rows for testing.
 Target: Binary classification (1 = Approved, 0 = Rejected).
 
 ## Technologies Used
-Programming: Python
-pandas, numpy: Data manipulation and numerical computations.
-matplotlib, seaborn: Data visualization.
-scikit-learn: Preprocessing, pipelines, and machine learning models.
-xgboost, catboost, lightgbm: Gradient boosting frameworks.
-optuna: Hyperparameter optimization.
+Programming: Python<br>
+pandas, numpy: Data manipulation and numerical computations.<br>
+matplotlib, seaborn: Data visualization.<br>
+scikit-learn: Preprocessing, pipelines, and machine learning models.<br>
+xgboost, catboost, lightgbm: Gradient boosting frameworks.<br>
+optuna: Hyperparameter optimization.<br>
 
 ## Contact
-For any questions or collaboration opportunities, feel free to contact me:
-Name: Dang Pham
-Email: pham2dh@mail.uc.edu
-LinkedIn: www.linkedin.com/in/phamhaidang
+For any questions or collaboration opportunities, feel free to contact me: <br>
+Name: Dang Pham<br>
+Email: pham2dh@mail.uc.edu<br>
+LinkedIn: www.linkedin.com/in/phamhaidang<br>
