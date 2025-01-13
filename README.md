@@ -59,7 +59,7 @@ Generate the submission file using the notebook and upload it to Kaggle.
 
 ## Dataset
 Source: Kaggle Playground October 2024 Challenge.
-Size: 10,000 rows and 15 features for training; 39,098 rows for testing.
+Size: 58,645 rows and 12 features for training; 39,098 rows for testing.
 Target: Binary classification (1 = Approved, 0 = Rejected).
 
 ## Technologies Used
